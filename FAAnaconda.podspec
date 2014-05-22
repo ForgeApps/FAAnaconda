@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   #  summary should be tweet-length, and the description more in depth.
   #
 
-  s.name         = "Anaconda"
+  s.name         = "FAAnaconda"
   s.version      = "0.0.1"
   s.summary      = "Classes for handling working with an Anaconda Gem backed API service for uploading media items directly to S3 from a device."
 
@@ -31,7 +31,7 @@ Pod::Spec.new do |s|
 
                    DESC
 
-  s.homepage     = "https://github.com/ForgeApps/anaconda-pod"
+  s.homepage     = "https://github.com/ForgeApps/FAAnaconda"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -81,7 +81,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/ForgeApps/anaconda-ios-demo.git", tag: '0.0.1' }
+  s.source       = { :git => "https://github.com/ForgeApps/FAAnaconda.git", tag: '0.0.1' }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
